@@ -1,8 +1,7 @@
-### Hi there 👋
-
 ![About Me](https://github.com/Navaneeth-Nagesh/Navaneeth-Nagesh/blob/master/about_me-min.gif)
 
 <!--
+### Hi there 👋
 **Navaneeth-Nagesh/Navaneeth-Nagesh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
